@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Bureau\Ynov\B2\Architecture Logiciel\projet-C#\projet_C\bin\Debug\projet_C.exe.config
+C:\Users\mathi\OneDrive\Bureau\Ynov\B2\Architecture Logiciel\projet-C#\projet_C\bin\Debug\projet_C.exe
+C:\Users\mathi\OneDrive\Bureau\Ynov\B2\Architecture Logiciel\projet-C#\projet_C\bin\Debug\projet_C.pdb
+C:\Users\mathi\OneDrive\Bureau\Ynov\B2\Architecture Logiciel\projet-C#\projet_C\obj\Debug\projet_C.csprojAssemblyReference.cache
+C:\Users\mathi\OneDrive\Bureau\Ynov\B2\Architecture Logiciel\projet-C#\projet_C\obj\Debug\projet_C.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Bureau\Ynov\B2\Architecture Logiciel\projet-C#\projet_C\obj\Debug\projet_C.exe
+C:\Users\mathi\OneDrive\Bureau\Ynov\B2\Architecture Logiciel\projet-C#\projet_C\obj\Debug\projet_C.pdb
